@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Soumik Chatterjee
+# 👋 Hi, I'm SUDIPTA KARMAKAR
 
 ### AI Engineer • Embedded AI Developer • Healthcare AI Innovator
 
