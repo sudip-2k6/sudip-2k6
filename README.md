@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Sudipta Karmakar
-👋</h1>
+<h1 align="center">Hi there, I'm Sudipta Karmakar 👋</h1>
 
 <h3 align="center">Embedded Systems & IoT Developer | Robotics Enthusiast | Software Developer</h3>
 
@@ -23,32 +22,67 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📫 Connect With Me
 
-**Embedded / IoT**
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sudip_2k6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+---
 
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+### 🛠️ Skills
+
+<table align="center">
+<tr><td align="center">
+
+**🎓 Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+
+</td></tr>
+<tr><td><hr/></td></tr>
+<tr><td align="center">
+
+**🤖 Embedded, IoT & Robotics**
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+</td></tr>
+<tr><td><hr/></td></tr>
+<tr><td align="center">
+
+**🎨 Frontend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+</td></tr>
+<tr><td><hr/></td></tr>
+<tr><td align="center">
+
+**⚙️ Backend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</td></tr>
+<tr><td><hr/></td></tr>
+<tr><td align="center">
+
+**🗄️ Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+</td></tr>
+<tr><td><hr/></td></tr>
+<tr><td align="center">
+
+**🧰 Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</td></tr>
+</table>
 
 ---
 
@@ -85,13 +119,5 @@ A complete smart home system built on a single ESP32, combining security, automa
 </p>
 
 ---
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sudip_2k6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 <p align="center"><i>⭐️ Always open to internship opportunities and collaborations in embedded systems, IoT, and robotics!</i></p>
