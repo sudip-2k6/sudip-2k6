@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sudipta Karmakar 👋</h1>
+<h1 align="center">Hi there, I'm Sudip 👋</h1>
 
 <h3 align="center">Embedded Systems & IoT Developer | Robotics Enthusiast | Software Developer</h3>
 
@@ -34,55 +34,49 @@
 
 ### 🛠️ Skills
 
-<table align="center">
-<tr><td align="center">
+<hr/>
 
-**🎓 Programming Languages**
-<br/>
+<p align="center"><b>🎓 Programming Languages</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
-</td></tr>
-<tr><td><hr/></td></tr>
-<tr><td align="center">
+<hr/>
 
-**🤖 Embedded, IoT & Robotics**
-<br/>
+<p align="center"><b>🤖 Embedded, IoT & Robotics</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
-</td></tr>
-<tr><td><hr/></td></tr>
-<tr><td align="center">
+<hr/>
 
-**🎨 Frontend Development**
-<br/>
+<p align="center"><b>🎨 Frontend Development</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-</td></tr>
-<tr><td><hr/></td></tr>
-<tr><td align="center">
+<hr/>
 
-**⚙️ Backend Development**
-<br/>
+<p align="center"><b>⚙️ Backend Development</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-</td></tr>
-<tr><td><hr/></td></tr>
-<tr><td align="center">
+<hr/>
 
-**🗄️ Database**
-<br/>
+<p align="center"><b>🗄️ Database</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-</td></tr>
-<tr><td><hr/></td></tr>
-<tr><td align="center">
+<hr/>
 
-**🧰 Tools & Platforms**
-<br/>
+<p align="center"><b>🧰 Tools & Platforms</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-</td></tr>
-</table>
+<hr/>
 
 ---
 
