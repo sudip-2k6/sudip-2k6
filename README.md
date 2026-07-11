@@ -116,20 +116,28 @@ A complete smart home system built on a single ESP32, combining security, automa
 **Tech used:** ESP32-WROOM-32, RC522 RFID, ST7735 TFT Display, HC-SR501 PIR, MQ-2 Gas Sensor, DHT11, SinricPro, REST/JSON
 
 ---
-### 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudip-2k6&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sudip-2k6&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=sudip-2k6&theme=tokyonight&hide_border=true"/>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudip-2k6&theme=tokyonight" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudip-2k6&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudip-2k6&theme=tokyonight" width="39%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudip-2k6&theme=tokyonight" width="39%" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudip-2k6&theme=tokyonight" width="39%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudip-2k6&theme=tokyonight&utcOffset=5.5" width="39%" />
+</p>
+
 
 <p align="center"><i>⭐️ Always open to internship opportunities and collaborations in embedded systems, IoT, and robotics!</i></p>
 
