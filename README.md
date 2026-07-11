@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm SUDIPTA KARMAKAR</h1>
 <h3 align="center">I'm passionate about **Robotics, IoT, Embedded Systems, and Software Development**. I enjoy building intelligent, connected solutions that combine hardware and software to solve real-world problems. My interests include embedded programming, automation, Linux, and open-source technologies. I continuously learn new skills, explore emerging technologies, and build innovative projects using platforms like ESP32, STM32, Arduino, and Raspberry Pi. My goal is to create reliable, efficient, and impactful solutions while contributing to the developer and open-source community.</h3>
 
+- 🔭 I’m currently working on **Bone Conduction Silent Speech Recognition System using ESP32, EMG & AI**
+
+- 🌱 I’m currently learning **Embedded Linux • RTOS • Edge AI • TinyML • Computer Vision • Cloud IoT • Cybersecurity**
+
+- 👯 I’m looking to collaborate on **Open-Source IoT, Embedded AI, Robotics & Smart Automation Projects**
+
+- 🤝 I’m looking for help with **TinyML, Edge AI, Embedded Linux & AI Model Optimization**
+
+- 💬 Ask me about **ESP32, Arduino, STM32, Raspberry Pi, IoT, Embedded Systems, Linux, Python, C/C++, AI Integration**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sudipta-karmakar-07137230b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudipta-karmakar-07137230b/" height="30" width="40" /></a>
