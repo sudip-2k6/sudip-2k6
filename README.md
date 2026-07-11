@@ -116,18 +116,22 @@ A complete smart home system built on a single ESP32, combining security, automa
 **Tech used:** ESP32-WROOM-32, RC522 RFID, ST7735 TFT Display, HC-SR501 PIR, MQ-2 Gas Sensor, DHT11, SinricPro, REST/JSON
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudip-2k6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-2k6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img height="165"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudip-2k6&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=sudip-2k6&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-2k6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudip-2k6&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 <p align="center"><i>⭐️ Always open to internship opportunities and collaborations in embedded systems, IoT, and robotics!</i></p>
+
+
+
