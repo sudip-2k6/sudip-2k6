@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudip-2k6"><img src="https://img.shields.io/github/followers/sudip_2k6?label=Follow&style=social" alt="GitHub followers"/></a>
+  <a href="https://github.com/sudip-2k6"><img src="https://img.shields.io/github/followers/sudip-2k6?label=Follow&style=social" alt="GitHub followers"/></a>
 </p>
 
 ---
@@ -120,8 +120,8 @@ A complete smart home system built on a single ESP32, combining security, automa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudip_2k6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip_2k6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudip-2k6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-2k6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
