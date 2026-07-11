@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Sudip 👋</h1>
+<h1 align="center">Hi there, I'm Sudipta Karmakar
+👋</h1>
 
 <h3 align="center">Embedded Systems & IoT Developer | Robotics Enthusiast | Software Developer</h3>
 
