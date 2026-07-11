@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sudip 👋</h1>
+<h1 align="center">Hi there, I'm Sudipta Karmakar 👋</h1>
 
 <h3 align="center">Embedded Systems & IoT Developer | Robotics Enthusiast | Software Developer</h3>
 
@@ -81,7 +81,22 @@
 
 ---
 
-### 🏗️ Featured Project
+### 🏗️ Featured Projects
+
+####🦴 BoneSense – AI-Powered Silent Speech Recognition Wearable
+
+EMG · Piezo Vibration Sensing · TinyML · ESP32 · Offline AI
+
+A low-cost wearable that recognizes silent speech by fusing EMG muscle signals, piezoelectric vibration sensing, and IMU motion data on an ESP32 DevKit.
+
+- 🧠 Multimodal sensor fusion for robust biosignal acquisition and silent speech detection
+- ⚡ Real-time signal processing, feature extraction, and TinyML inference on ESP32
+- 🔊 Offline text and voice output via DFPlayer Mini and Bluetooth connectivity
+- 🔋 Battery-powered wearable with rechargeable Li-ion battery and TP4056 charging
+
+Tech Stack: ESP32 DevKit, EMG Sensor V3.0, Piezo Contact Sensor, MPU6050, TinyML, TensorFlow Lite Micro, Arduino IDE, DFPlayer Mini, BLE.
+
+---
 
 #### 🔐 [Single-ESP32 Smart Home System](https://github.com/sudip_2k6)
 **RFID Access Control · Multi-Sensor Automation · Live Web Dashboard · OTA Updates · Voice Control**
