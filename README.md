@@ -116,13 +116,13 @@ A complete smart home system built on a single ESP32, combining security, automa
 **Tech used:** ESP32-WROOM-32, RC522 RFID, ST7735 TFT Display, HC-SR501 PIR, MQ-2 Gas Sensor, DHT11, SinricPro, REST/JSON
 
 ---
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudip-2k6&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudip-2k6&theme=tokyonight" width="80%" />
