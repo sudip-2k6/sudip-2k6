@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudip_2k6"><img src="https://img.shields.io/github/followers/sudip_2k6?label=Follow&style=social" alt="GitHub followers"/></a>
+  <a href="https://github.com/sudip-2k6"><img src="https://img.shields.io/github/followers/sudip_2k6?label=Follow&style=social" alt="GitHub followers"/></a>
 </p>
 
 ---
