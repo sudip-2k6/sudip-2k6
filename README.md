@@ -98,7 +98,7 @@ Tech Stack: ESP32 DevKit, EMG Sensor V3.0, Piezo Contact Sensor, MPU6050, TinyML
 
 ---
 
-#### 🔐 [Single-ESP32 Smart Home System](https://github.com/sudip_2k6)
+#### 🔐 Single-ESP32 Smart Home System
 **RFID Access Control · Multi-Sensor Automation · Live Web Dashboard · OTA Updates · Voice Control**
 
 A complete smart home system built on a single ESP32, combining security, automation, and remote control in one device.
