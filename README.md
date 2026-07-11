@@ -3,7 +3,7 @@
 <h3 align="center">Embedded Systems & IoT Developer | Robotics Enthusiast | Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+smart+devices+that+talk+to+the+real+world;ESP32+%7C+Sensors+%7C+RFID+%7C+OTA+%7C+Voice+Control;Turning+ideas+into+working+hardware+%2B+firmware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+smart+devices+that+talk+to+the+real+world;ESP32+%7C+Raspberry pi+%7C+Arduino+%7C+OTA+%7C+STM32;Turning+ideas+into+working+hardware+%2B+firmware" alt="Typing SVG" />
 </p>
 
 <p align="center">
