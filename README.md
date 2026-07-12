@@ -118,7 +118,7 @@ A complete smart home system built on a single ESP32, combining security, automa
 ---
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudip-2k6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sudip-2k6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ### 📊 GitHub Statistics
