@@ -83,7 +83,7 @@
 
 ### 🏗️ Featured Projects
 
-####🦴 BoneSense – AI-Powered Silent Speech Recognition Wearable
+### 🦴 BoneSense – AI-Powered Silent Speech Recognition Wearable
 
 EMG · Piezo Vibration Sensing · TinyML · ESP32 · Offline AI
 
